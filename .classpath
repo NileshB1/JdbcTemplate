@@ -67,5 +67,21 @@
 	<classpathentry kind="lib" path="lib/spring-websocket-4.3.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/commons-dbcp2-2.1.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/infinispan-core-4.2.1.CR1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/swarmcache-1.0RC2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
